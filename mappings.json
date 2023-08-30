@@ -1,0 +1,134 @@
+{
+  "/us/smartphones/*": {
+    "deeplink": "openwebview",
+    "mappings": {
+      "the-next-galaxy/reserve": "https://www.samsung.com/us/app/smartphones/the-next-galaxy/reserve/",
+      "galaxy-z-flip5": "https://www.samsung.com/us/app/smartphones/galaxy-z-flip5/",
+      "galaxy-z-fold5": "https://www.samsung.com/us/app/smartphones/galaxy-z-fold5/",
+      "galaxy-s23-ultra": "https://www.samsung.com/us/app/smartphones/galaxy-s23-ultra/",
+      "galaxy-s23": "https://www.samsung.com/us/app/smartphones/galaxy-s23/",
+      "galaxy-z-flip4": "https://www.samsung.com/us/app/smartphones/galaxy-z-flip4/",
+      "galaxy-z-fold4": "https://www.samsung.com/us/app/smartphones/galaxy-z-fold4/"
+    }
+  },
+  "/us/tablets/*": {
+    "deeplink": "openwebview",
+    "mappings": {
+      "galaxy-tab-s9": "https://www.samsung.com/us/app/tablets/galaxy-tab-s9/"
+    }
+  },
+  "/us/watches/*": {
+    "deeplink": "openwebview",
+    "mappings": {
+      "galaxy-watch6": "https://www.samsung.com/us/app/watches/galaxy-watch6/",
+      "galaxy-watch6-classic": "https://www.samsung.com/us/app/watches/galaxy-watch6-classic/",
+      "galaxy-watch5-pro": "https://www.samsung.com/us/app/watches/galaxy-watch5-pro/",
+      "galaxy-watch5": "https://www.samsung.com/us/app/watches/galaxy-watch5/"
+    }
+  },
+  "/us/shop/all-deals/*?": {
+    "deeplink": "gotosubtab",
+    "mappings": {
+      "default": "Featured_Offers",
+      "cell-phone-deals": "Mobile_Offers",
+      "tv-and-home-theater-deals": "TV_Home_Theater_Offers",
+      "watches-audio-accessories-deals": "Accessories_Offers",
+      "memory-monitor-storage-deals": "Monitors_Memory_Storage",
+      "tablets-laptops-computers-deals": "Computing_Offers",
+      "home-appliance-and-smart-home-sales": "Home_Appliances_SmartHome_Offers"
+    }
+  },
+  "/us/smartphones/": {
+    "deeplink": "opencategory",
+    "mappings": {
+      "default": "SEEALL-PHONE"
+    }
+  },
+  "/us/mobile/phones/*": {
+    "deeplink": "opencategory",
+    "mappings": {
+      "galaxy-s": "N0002110",
+      "galaxy-z": "N0003062"
+    }
+  },
+  "/us/mobile/tablets/*": {
+    "deeplink": "opencategory",
+    "mappings": {
+      "all-tablets": "SEEALL-TABLET",
+      "galaxy-tab-s": "N0002920"
+    }
+  },
+  "/us/mobile/mobile-accessories/*": {
+    "deeplink": "opencategory",
+    "mappings": {
+      "all-mobile-accessories": "ACCESSORIES001",
+      "phones": "N0002140",
+      "tablets": "N0002141",
+      "wearables-accessories": "N0002142"
+    }
+  },
+  "/us/computing/windows-laptops/*": {
+    "deeplink": "opencategory",
+    "mappings": {
+      "galaxy-book-s": "N0003068"
+    }
+  },
+  "/us/mobile/audio/headphones/*?": {
+    "deeplink": "opencategory",
+    "mappings": {
+      "default": "N0002954",
+      "galaxy-buds-live-mystic-bronze-sm-r180nznaxar": "N0002955_Brand_GalaxyBudsLive",
+      "galaxy-buds-plus-white-sm-r175nzwaxar": "N0002955_Brand_GalaxyBuds+",
+      "galaxy-buds--black-sm-r170nzkaxar": "N0002955_Brand_GalaxyBuds"
+    }
+  },
+  "/us/televisions-home-theater/tvs/all-tvs/*?": {
+    "deeplink": "opencategory",
+    "useQuery": true,
+    "mappings": {
+      "default": "N0002201",
+      "?technology=QLED+8K+TVs": "N0003019",
+      "?technology=4K+Laser+Projectors": "N0003107",
+      "?technology=Crystal+UHD+TVs": "N0003061"
+    }
+  },
+  "/us/televisions-home-theater/tvs/*": {
+    "deeplink": "opencategory",
+    "mappings": {
+      "qled-4k-tvs": "N0002909"
+    }
+  },
+  "/us/televisions-home-theater/tvs/*/*": {
+    "deeplink": "opencategory",
+    "mappings": {
+      "the-frame/65-class-the-frame-tv-qled-4k-uhd-hdr-smart-tv-2020-qn65ls03tafxza": "N0003009",
+      "the-terrace/65-class-the-terrace-qled-4k-uhd-hdr-smart-tv-qn65lst7tafxza": "N0003009",
+      "the-sero/43-class-the-sero-tv-qled-4k-uhd-hdr-smart-tv-qn43ls05tafxza": "N0003009",
+      "the-serif/55-class-the-serif-qled-4k-uhd-hdr-smart-tv-2020-qn55ls01tafxza": "N0003044"
+    }
+  },
+  "/us/televisions-home-theater/home-theater/all-home-theater/*?": {
+    "deeplink": "opencategory",
+    "useQuery": true,
+    "mappings": {
+      "?shop=Buy+Online": "N0002202",
+      "?technology=Sound+Bars&key_category_features=Q+Series": "N0002202",
+      "?technology=Sound+Bars&key_category_features=T+Series": "N0002202"
+    }
+  },
+  "/us/televisions-home-theater/home-theater/sound-bars/*": {
+    "deeplink": "opencategory",
+    "useQuery": true,
+    "mappings": {
+      "hw-lst70t-3-0ch-the-terrace-soundbar-with-dolby-5-1ch-hw-lst70t-za": "N0002202",
+      "?key_category_features=S+Series": "N0002202",
+      "?key_category_features=Standard+Soundbar": "N0002202"
+    }
+  },
+  "/us/televisions-home-theater/home-theater/sound-tower/": {
+    "deeplink": "opencategory",
+    "mappings": {
+      "default": "N0002202"
+    }
+  }
+}
