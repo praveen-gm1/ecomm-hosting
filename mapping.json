@@ -1,4 +1,5 @@
 {
+  "version": "1.0.0",
   "mappings": {
     "https://www.samsung.com/us/air-dresser/": "samsungestore://opencategory#category=N0003098",
     "https://www.samsung.com/us/air-purifiers/": "samsungestore://opencategory#category=N0003055",
