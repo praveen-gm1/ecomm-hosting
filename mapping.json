@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.0",
   "mappings": {
-    "https://www.samsung.com/us/air-dresser/": "samsungestore://opencategory#category=N0003098",
-    "https://www.samsung.com/us/air-purifiers/": "samsungestore://opencategory#category=N0003055",
+    "https://www.samsung.com/us/air-dresser/": "samsungestore://opencategory#category=N0003099",
+    "https://www.samsung.com/us/air-purifiers/": "samsungestore://opencategory#category=N0003056",
     "https://www.samsung.com/us/chromebooks/": "samsungestore://opencategory#category=N0002502",
     "https://www.samsung.com/us/computing-accessories/": "samsungestore://opencategory#category=N0002562",
-    "https://www.samsung.com/us/computing/laptops/all-laptops/": "samsungestore://opencategory#category=N0002501",
+    "https://www.samsung.com/us/computing/laptops/all-laptops/": "samsungestore://opencategory#category=N0002500",
     "https://www.samsung.com/us/computing/monitors/gaming/": "samsungestore://opencategory#category=N0002912",
     "https://www.samsung.com/us/computing/monitors/uhd-and-wqhd/": {
       "technology=Curved": "samsungestore://opencategory#category=N0002546",
@@ -17,10 +17,10 @@
     "https://www.samsung.com/us/dryers/": "samsungestore://opencategory#category=N0002403",
     "https://www.samsung.com/us/galaxybooks/": "samsungestore://opencategory#category=N0003068",
     "https://www.samsung.com/us/home-appliances/home-appliances-accessories/vacuums/": {
-      "category_names=Vacuums": "samsungestore://opencategory#category=N0002408"
+      "category_names=Vacuums": "samsungestore://opencategory#category=N0002466"
     },
     "https://www.samsung.com/us/home-appliances/home-appliances-accessories/washers-dryers/": {
-      "category_names=Washers+%26+Dryers&shop=Buy+Online": "samsungestore://opencategory#category=N0002408"
+      "category_names=Washers+%26+Dryers&shop=Buy+Online": "samsungestore://opencategory#category=N0002464"
     },
     "https://www.samsung.com/us/home-appliances/kitchen-packages/": "samsungestore://gototab#tab=4#subtabid=Kitchen_Packages",
     "https://www.samsung.com/us/microwaves/": "samsungestore://opencategory#category=N0002405",
@@ -29,7 +29,7 @@
     "https://www.samsung.com/us/mobile/audio/headphones/galaxy-buds-live-mystic-bronze-sm-r180nznaxar/": "samsungestore://opencategory#category=N0002955_Brand_GalaxyBudsLive",
     "https://www.samsung.com/us/mobile/audio/headphones/galaxy-buds-plus-white-sm-r175nzwaxar/": "samsungestore://opencategory#category=N0002955_Brand_GalaxyBuds+",
     "https://www.samsung.com/us/mobile/mobile-accessories/all-mobile-accessories/": "samsungestore://opencategory#category=ACCESSORIES001",
-    "https://www.samsung.com/us/mobile/mobile-accessories/phones/": "samsungestore://opencategory#category=ACCESSORIES001",
+    "https://www.samsung.com/us/mobile/mobile-accessories/phones/": "samsungestore://opencategory#category=N0002140",
     "https://www.samsung.com/us/mobile/mobile-accessories/tablets/": "samsungestore://opencategory#category=N0002141",
     "https://www.samsung.com/us/mobile/phones/galaxy-s/": "samsungestore://opencategory#category=N0002110",
     "https://www.samsung.com/us/mobile/phones/galaxy-z/": "samsungestore://opencategory#category=N0003062",
@@ -58,13 +58,12 @@
     "https://www.samsung.com/us/tablets/": "samsungestore://opencategory#category=SEEALL-TABLET",
     "https://www.samsung.com/us/tablets/galaxy-tab-s9/": "samsungestore://openwebview#url=https://www.samsung.com/us/app/tablets/galaxy-tab-s9/",
     "https://www.samsung.com/us/televisions-home-theater/home-theater/all-home-theater/": {
+      "default": "samsungestore://opencategory#category=N0002202",
       "shop=Buy+Online": "samsungestore://opencategory#category=N0002202",
-      "technology=Sound+Bars&key_category_features=Q+Series": "samsungestore://opencategory#category=N0002202",
-      "technology=Sound+Bars&key_category_features=T+Series": "samsungestore://opencategory#category=N0002202"
+      "Technology=Wireless+Speakers": "samsungestore://opencategory#category=N0002221"
     },
     "https://www.samsung.com/us/televisions-home-theater/home-theater/sound-bars/": {
-      "key_category_features=S+Series": "samsungestore://opencategory#category=N0002202",
-      "key_category_features=Standard+Soundbar": "samsungestore://opencategory#category=N0002202"
+      "default": "samsungestore://opencategory#category=N0002220"
     },
     "https://www.samsung.com/us/televisions-home-theater/home-theater/sound-bars/hw-lst70t-3-0ch-the-terrace-soundbar-with-dolby-5-1ch-hw-lst70t-za/": "samsungestore://opencategory#category=N0002202",
     "https://www.samsung.com/us/televisions-home-theater/home-theater/sound-tower/": "samsungestore://opencategory#category=N0002202",
@@ -77,15 +76,15 @@
     "https://www.samsung.com/us/televisions-home-theater/tvs/all-tvs/": {
       "technology=4K+Laser+Projectors": "samsungestore://opencategory#category=N0003107",
       "technology=Crystal+UHD+TVs": "samsungestore://opencategory#category=N0003061",
-      "technology=QLED+8K+TVs": "samsungestore://opencategory#category=N0003019",
       "default": "samsungestore://opencategory#category=N0002201"
     },
     "https://www.samsung.com/us/televisions-home-theater/tvs/qled-4k-tvs/": "samsungestore://opencategory#category=N0002909",
     "https://www.samsung.com/us/televisions-home-theater/tvs/the-frame/65-class-the-frame-tv-qled-4k-uhd-hdr-smart-tv-2020-qn65ls03tafxza/": "samsungestore://opencategory#category=N0003009",
+    "https://www.samsung.com/us/televisions-home-theater/tvs/the-frame-limited-edition/65-the-frame-disney100-edition-qn65ls03bsfxza/": "samsungestore://openwebview#url=https://www.samsung.com/us/televisions-home-theater/tvs/the-frame-limited-edition/65-the-frame-disney100-edition-qn65ls03bsfxza/shopapp/",
     "https://www.samsung.com/us/televisions-home-theater/tvs/the-serif/55-class-the-serif-qled-4k-uhd-hdr-smart-tv-2020-qn55ls01tafxza/": "samsungestore://opencategory#category=N0003044",
-    "https://www.samsung.com/us/televisions-home-theater/tvs/the-sero/43-class-the-sero-tv-qled-4k-uhd-hdr-smart-tv-qn43ls05tafxza/": "samsungestore://opencategory#category=N0003009",
-    "https://www.samsung.com/us/televisions-home-theater/tvs/the-terrace/65-class-the-terrace-qled-4k-uhd-hdr-smart-tv-qn65lst7tafxza/": "samsungestore://opencategory#category=N0003009",
-    "https://www.samsung.com/us/vacuums/": "samsungestore://opencategory#category=N0002407",
+    "https://www.samsung.com/us/televisions-home-theater/tvs/the-sero/43-class-the-sero-tv-qled-4k-uhd-hdr-smart-tv-qn43ls05tafxza/": "samsungestore://opencategory#category=N0003077",
+    "https://www.samsung.com/us/televisions-home-theater/tvs/the-terrace/65-class-the-terrace-qled-4k-uhd-hdr-smart-tv-qn65lst7tafxza/": "samsungestore://opencategory#category=N0003085",
+    "https://www.samsung.com/us/vacuums/": "samsungestore://opencategory#category=N0002466",
     "https://www.samsung.com/us/wall-ovens/": "samsungestore://opencategory#category=N0002877",
     "https://www.samsung.com/us/washers/": "samsungestore://opencategory#category=N0002402",
     "https://www.samsung.com/us/watches/galaxy-watch5-pro/": "samsungestore://openwebview#url=https://www.samsung.com/us/app/watches/galaxy-watch5-pro/",
