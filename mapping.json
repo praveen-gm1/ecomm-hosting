@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "mappings": {
     "https://www.samsung.com/us/air-dresser/": "samsungestore://opencategory#category=N0003099",
     "https://www.samsung.com/us/air-purifiers/": "samsungestore://opencategory#category=N0003056",
@@ -82,7 +82,7 @@
     "https://www.samsung.com/us/televisions-home-theater/tvs/the-frame/65-class-the-frame-tv-qled-4k-uhd-hdr-smart-tv-2020-qn65ls03tafxza/": "samsungestore://opencategory#category=N0003009",
     "https://www.samsung.com/us/televisions-home-theater/tvs/the-frame-limited-edition/65-the-frame-disney100-edition-qn65ls03bsfxza/": "samsungestore://openwebview#url=https://www.samsung.com/us/televisions-home-theater/tvs/the-frame-limited-edition/65-the-frame-disney100-edition-qn65ls03bsfxza/shopapp/",
     "https://www.samsung.com/us/televisions-home-theater/tvs/the-serif/55-class-the-serif-qled-4k-uhd-hdr-smart-tv-2020-qn55ls01tafxza/": "samsungestore://opencategory#category=N0003044",
-    "https://www.samsung.com/us/televisions-home-theater/tvs/the-sero/43-class-the-sero-tv-qled-4k-uhd-hdr-smart-tv-qn43ls05tafxza/": "samsungestore://opencategory#category=N0003077",
+    "https://www.samsung.com/us/televisions-home-theater/tvs/the-sero/43-class-the-sero-tv-qled-4k-uhd-hdr-smart-tv-qn43ls05tafxza/": "samsungestore://opencategory#category=SEEALL-TABLET",
     "https://www.samsung.com/us/televisions-home-theater/tvs/the-terrace/65-class-the-terrace-qled-4k-uhd-hdr-smart-tv-qn65lst7tafxza/": "samsungestore://opencategory#category=N0003085",
     "https://www.samsung.com/us/vacuums/": "samsungestore://opencategory#category=N0002466",
     "https://www.samsung.com/us/wall-ovens/": "samsungestore://opencategory#category=N0002877",
